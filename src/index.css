@@ -71,6 +71,6 @@
     @apply border-border;
   }
   body {
-    @apply bg-pink-200 text-foreground;
+    @apply bg-lime-300 text-foreground;
   }
 }
