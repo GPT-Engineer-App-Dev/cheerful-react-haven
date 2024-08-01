@@ -1,1 +1,1 @@
-export default () => <div>Hello, World 1722501207.40046</bork></div>;
+export default () => <div>Hello, World!</div>;
